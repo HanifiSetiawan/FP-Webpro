@@ -1,0 +1,76 @@
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\appsettings.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.staticwebassets.runtime.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.exe
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.deps.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.runtimeconfig.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.pdb
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.csproj.AssemblyReference.cache
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.AssemblyInfoInputs.cache
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.AssemblyInfo.cs
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.csproj.CoreCompileInputs.cache
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.RazorAssemblyInfo.cache
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.RazorAssemblyInfo.cs
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.FPWebpro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.build.FPWebpro.props
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FPWebpro.props
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FPWebpro.props
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\scopedcss\bundle\FPWebpro.styles.css
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\scopedcss\projectbundle\FPWebpro.bundle.scp.css
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.csproj.CopyComplete
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\refint\FPWebpro.dll
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.pdb
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.genruntimeconfig.cache
+C:\Users\Hanifi Setiawan\source\repos\FPWebpro\FPWebpro\obj\Debug\net6.0\ref\FPWebpro.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\appsettings.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.staticwebassets.runtime.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.exe
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.deps.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.runtimeconfig.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\FPWebpro.pdb
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.csproj.AssemblyReference.cache
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.AssemblyInfoInputs.cache
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.AssemblyInfo.cs
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.csproj.CoreCompileInputs.cache
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.RazorAssemblyInfo.cache
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.RazorAssemblyInfo.cs
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.FPWebpro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.build.FPWebpro.props
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FPWebpro.props
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FPWebpro.props
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\scopedcss\bundle\FPWebpro.styles.css
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\scopedcss\projectbundle\FPWebpro.bundle.scp.css
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.csproj.CopyComplete
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\refint\FPWebpro.dll
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.pdb
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\FPWebpro.genruntimeconfig.cache
+C:\Users\Hanifi Setiawan\Documents\KULIAH\Sem 4\WebProg\FPWebpro\FPWebpro\obj\Debug\net6.0\ref\FPWebpro.dll
